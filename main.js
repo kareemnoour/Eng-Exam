@@ -13,7 +13,6 @@ scoreLimit.style.cssText =
 fetch(API)
     .then((response) => response.json())
     .then((data) => {
-        console.log(data.quiz.questions);
         questions = data.quiz.questions;
         showData();
         showScore(scoreLimit, score, displayedQuestionsCount);
@@ -90,10 +89,8 @@ function checkAnswer(correctAnswer, questionIndex) {
             if (selectedOption === correctAnswer) {
                 option.style.backgroundColor = "green";
                 score++;
-                console.log("Correct answer");
             } else {
                 option.style.backgroundColor = "red";
-                console.log("Incorrect answer");
             }
             showScore(scoreLimit, score, displayedQuestionsCount);
         });
@@ -133,38 +130,5 @@ window.addEventListener("scroll", () => {
     }
 });
 
-
-
-// function checkAnswer(correctAnswer, questionIndex) {
-//     let options = document.querySelectorAll(`.area:nth-child(${questionIndex + 1}) ul li`);
-    
-//     // Remove previous event listeners
-//     options.forEach(option => {
-//         option.removeEventListener('click', clickHandler);
-//     });
-
-//     // Add new event listeners
-//     options.forEach(option => {
-//         option.addEventListener('click', clickHandler);
-//     });
-
-//     function clickHandler(e) {
-//         options.forEach(opt => {
-//             opt.style.pointerEvents = "none";
-//         });
-
-//         let selectedOption = e.target.textContent.trim();
-
-//         if (selectedOption === correctAnswer) {
-//             e.target.style.backgroundColor = "green";
-//             score++;
-//             console.log("إجابة صحيحة");
-//         } else {
-//             e.target.style.backgroundColor = "red";
-//             console.log("إجابة خاطئة");
-//         }
-//         showScore(scoreLimit, score, displayedQuestionsCount);
-//     }
-// }
 
 
