@@ -1,6 +1,6 @@
 
 
-const API = "https://run.mocky.io/v3/89af394f-99fb-4e51-97b3-810796426291";
+const API = "./quiz.json";
 let questions = [];
 let currentBatchIndex = 0;
 const batchSize = 7;
