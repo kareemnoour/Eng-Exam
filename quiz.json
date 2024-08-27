@@ -1,0 +1,920 @@
+{
+    "quiz": {
+      "title": "اختبار معاني الكلمات: من الإنجليزية إلى العربية",
+      "questions": [
+        {
+          "question": "ما هو معنى الكلمة 'Beautiful'؟",
+          "options": {
+            "a": "قبيح",
+            "b": "جميل",
+            "c": "كبير",
+            "d": "صغير"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Rich'؟",
+          "options": {
+            "a": "فقير",
+            "b": "متوسط",
+            "c": "ثري",
+            "d": "بسيط"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Fast'؟",
+          "options": {
+            "a": "بطيء",
+            "b": "سريع",
+            "c": "ثقيل",
+            "d": "خفيف"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Brave'؟",
+          "options": {
+            "a": "جبان",
+            "b": "خائف",
+            "c": "شجاع",
+            "d": "قلق"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Happy'؟",
+          "options": {
+            "a": "حزين",
+            "b": "غاضب",
+            "c": "سعيد",
+            "d": "مندهش"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Sad'؟",
+          "options": {
+            "a": "سعيد",
+            "b": "حزين",
+            "c": "غاضب",
+            "d": "مندهش"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Old'؟",
+          "options": {
+            "a": "جديد",
+            "b": "قديم",
+            "c": "صغير",
+            "d": "شباب"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Strong'؟",
+          "options": {
+            "a": "ضعيف",
+            "b": "قوي",
+            "c": "بطيء",
+            "d": "سريع"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Hot'؟",
+          "options": {
+            "a": "بارد",
+            "b": "ساخن",
+            "c": "خفيف",
+            "d": "ثقيل"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Cold'؟",
+          "options": {
+            "a": "بارد",
+            "b": "ساخن",
+            "c": "ثقيل",
+            "d": "خفيف"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Hard'؟",
+          "options": {
+            "a": "لين",
+            "b": "سهل",
+            "c": "قاسي",
+            "d": "بسيط"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Light'؟",
+          "options": {
+            "a": "ثقيل",
+            "b": "خفيف",
+            "c": "مظلم",
+            "d": "كبير"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Heavy'؟",
+          "options": {
+            "a": "خفيف",
+            "b": "ثقيل",
+            "c": "مظلم",
+            "d": "صغير"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Easy'؟",
+          "options": {
+            "a": "سهل",
+            "b": "صعب",
+            "c": "لين",
+            "d": "قاسي"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Difficult'؟",
+          "options": {
+            "a": "سهل",
+            "b": "صعب",
+            "c": "لين",
+            "d": "بسيط"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Young'؟",
+          "options": {
+            "a": "قديم",
+            "b": "كبير",
+            "c": "شباب",
+            "d": "طفل"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Angry'؟",
+          "options": {
+            "a": "سعيد",
+            "b": "حزين",
+            "c": "غاضب",
+            "d": "مندهش"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Smart'؟",
+          "options": {
+            "a": "غبي",
+            "b": "ذكي",
+            "c": "حزين",
+            "d": "غاضب"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Famous'؟",
+          "options": {
+            "a": "مشهور",
+            "b": "مجهول",
+            "c": "عادي",
+            "d": "بسيط"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Quiet'؟",
+          "options": {
+            "a": "ضوضاء",
+            "b": "صاخب",
+            "c": "هادئ",
+            "d": "بطيء"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Clean'؟",
+          "options": {
+            "a": "وسخ",
+            "b": "نظيف",
+            "c": "كبير",
+            "d": "صغير"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Dirty'؟",
+          "options": {
+            "a": "نظيف",
+            "b": "وسخ",
+            "c": "كبير",
+            "d": "صغير"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Thin'؟",
+          "options": {
+            "a": "سميك",
+            "b": "رقيق",
+            "c": "ضخم",
+            "d": "صلب"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Thick'؟",
+          "options": {
+            "a": "رقيق",
+            "b": "سميك",
+            "c": "صلب",
+            "d": "ضخم"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Young'؟",
+          "options": {
+            "a": "كبير",
+            "b": "شاب",
+            "c": "صغير",
+            "d": "طفل"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Large'؟",
+          "options": {
+            "a": "صغير",
+            "b": "كبير",
+            "c": "نحيف",
+            "d": "ضخم"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Small'؟",
+          "options": {
+            "a": "كبير",
+            "b": "صغير",
+            "c": "نحيف",
+            "d": "ضخم"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Big'؟",
+          "options": {
+            "a": "صغير",
+            "b": "كبير",
+            "c": "نحيف",
+            "d": "ضخم"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Short'؟",
+          "options": {
+            "a": "طويل",
+            "b": "قصير",
+            "c": "رفيع",
+            "d": "عريض"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Tall'؟",
+          "options": {
+            "a": "قصير",
+            "b": "طويل",
+            "c": "رفيع",
+            "d": "عريض"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Fat'؟",
+          "options": {
+            "a": "نحيف",
+            "b": "سمين",
+            "c": "صغير",
+            "d": "كبير"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Thin'؟",
+          "options": {
+            "a": "سميك",
+            "b": "رقيق",
+            "c": "ضخم",
+            "d": "صلب"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Soft'؟",
+          "options": {
+            "a": "صلب",
+            "b": "رقيق",
+            "c": "لين",
+            "d": "ضخم"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Hard'؟",
+          "options": {
+            "a": "لين",
+            "b": "سهل",
+            "c": "قاسي",
+            "d": "بسيط"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Smooth'؟",
+          "options": {
+            "a": "خشن",
+            "b": "ملساء",
+            "c": "هش",
+            "d": "ثقيل"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Rough'؟",
+          "options": {
+            "a": "ناعم",
+            "b": "خشن",
+            "c": "سهل",
+            "d": "صعب"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Expensive'؟",
+          "options": {
+            "a": "رخيص",
+            "b": "غالي",
+            "c": "عادي",
+            "d": "بسيط"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Cheap'؟",
+          "options": {
+            "a": "غالي",
+            "b": "رخيص",
+            "c": "عادي",
+            "d": "بسيط"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Near'؟",
+          "options": {
+            "a": "بعيد",
+            "b": "قريب",
+            "c": "واضح",
+            "d": "صعب"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Far'؟",
+          "options": {
+            "a": "قريب",
+            "b": "بعيد",
+            "c": "واضح",
+            "d": "صعب"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Late'؟",
+          "options": {
+            "a": "مبكر",
+            "b": "متأخر",
+            "c": "سريع",
+            "d": "بطيء"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Early'؟",
+          "options": {
+            "a": "متأخر",
+            "b": "مبكر",
+            "c": "سريع",
+            "d": "بطيء"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Good'؟",
+          "options": {
+            "a": "سيء",
+            "b": "جيد",
+            "c": "غبي",
+            "d": "ذكي"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Bad'؟",
+          "options": {
+            "a": "جيد",
+            "b": "سيء",
+            "c": "غبي",
+            "d": "ذكي"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Busy'؟",
+          "options": {
+            "a": "خالي",
+            "b": "مشغول",
+            "c": "واضح",
+            "d": "ثقيل"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Free'؟",
+          "options": {
+            "a": "مشغول",
+            "b": "خالي",
+            "c": "واضح",
+            "d": "ثقيل"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Nice'؟",
+          "options": {
+            "a": "قبيح",
+            "b": "لطيف",
+            "c": "كبير",
+            "d": "صغير"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Ugly'؟",
+          "options": {
+            "a": "جميل",
+            "b": "قبيح",
+            "c": "كبير",
+            "d": "صغير"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Boring'؟",
+          "options": {
+            "a": "ممتع",
+            "b": "ممل",
+            "c": "سريع",
+            "d": "بطيء"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Interesting'؟",
+          "options": {
+            "a": "ممل",
+            "b": "ممتع",
+            "c": "سريع",
+            "d": "بطيء"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Simple'؟",
+          "options": {
+            "a": "معقد",
+            "b": "بسيط",
+            "c": "صعب",
+            "d": "سهل"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Complex'؟",
+          "options": {
+            "a": "بسيط",
+            "b": "معقد",
+            "c": "صعب",
+            "d": "سهل"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'True'؟",
+          "options": {
+            "a": "كاذب",
+            "b": "حقيقي",
+            "c": "خيالي",
+            "d": "منطقي"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'False'؟",
+          "options": {
+            "a": "حقيقي",
+            "b": "كاذب",
+            "c": "خيالي",
+            "d": "منطقي"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Right'؟",
+          "options": {
+            "a": "خطأ",
+            "b": "صحيح",
+            "c": "مبكر",
+            "d": "متأخر"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Wrong'؟",
+          "options": {
+            "a": "صحيح",
+            "b": "خطأ",
+            "c": "مبكر",
+            "d": "متأخر"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Thin'؟",
+          "options": {
+            "a": "سميك",
+            "b": "رقيق",
+            "c": "ضخم",
+            "d": "صلب"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Sharp'؟",
+          "options": {
+            "a": "غير واضح",
+            "b": "حاد",
+            "c": "ناعم",
+            "d": "ثقيل"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Blunt'؟",
+          "options": {
+            "a": "حاد",
+            "b": "ناعم",
+            "c": "ضخم",
+            "d": "ثقيل"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Kind'؟",
+          "options": {
+            "a": "قاسي",
+            "b": "لطيف",
+            "c": "صارم",
+            "d": "خطير"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Cruel'؟",
+          "options": {
+            "a": "لطيف",
+            "b": "قاسي",
+            "c": "خطير",
+            "d": "صارم"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Generous'؟",
+          "options": {
+            "a": "بخيل",
+            "b": "سخي",
+            "c": "غير مبال",
+            "d": "منفتح"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Stingy'؟",
+          "options": {
+            "a": "سخي",
+            "b": "بخيل",
+            "c": "غير مبال",
+            "d": "منفتح"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Simple'؟",
+          "options": {
+            "a": "بسيط",
+            "b": "معقد",
+            "c": "صعب",
+            "d": "سهل"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Complex'؟",
+          "options": {
+            "a": "بسيط",
+            "b": "معقد",
+            "c": "صعب",
+            "d": "سهل"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Shallow'؟",
+          "options": {
+            "a": "عميق",
+            "b": "ضحل",
+            "c": "عريض",
+            "d": "طويل"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Deep'؟",
+          "options": {
+            "a": "ضحل",
+            "b": "عميق",
+            "c": "عريض",
+            "d": "طويل"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Open'؟",
+          "options": {
+            "a": "مغلق",
+            "b": "مفتوح",
+            "c": "ضيق",
+            "d": "كبير"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Closed'؟",
+          "options": {
+            "a": "مفتوح",
+            "b": "مغلق",
+            "c": "ضيق",
+            "d": "كبير"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Thick'؟",
+          "options": {
+            "a": "رقيق",
+            "b": "سميك",
+            "c": "صلب",
+            "d": "ضخم"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Thin'؟",
+          "options": {
+            "a": "سميك",
+            "b": "رقيق",
+            "c": "ضخم",
+            "d": "صلب"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Sweet'؟",
+          "options": {
+            "a": "حلو",
+            "b": "مالح",
+            "c": "مر",
+            "d": "حامض"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Sour'؟",
+          "options": {
+            "a": "حلو",
+            "b": "مالح",
+            "c": "مر",
+            "d": "حامض"
+          },
+          "correct_answer": "d"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Fresh'؟",
+          "options": {
+            "a": "جاف",
+            "b": "جديد",
+            "c": "ناضج",
+            "d": "مستعمر"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Stale'؟",
+          "options": {
+            "a": "جديد",
+            "b": "جاف",
+            "c": "مستعمر",
+            "d": "ناضج"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Wet'؟",
+          "options": {
+            "a": "جاف",
+            "b": "جديد",
+            "c": "مبلل",
+            "d": "ناضج"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Dry'؟",
+          "options": {
+            "a": "مبلل",
+            "b": "جديد",
+            "c": "مستعمر",
+            "d": "جاف"
+          },
+          "correct_answer": "d"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Cold'؟",
+          "options": {
+            "a": "بارد",
+            "b": "ساخن",
+            "c": "حار",
+            "d": "بارد"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Hot'؟",
+          "options": {
+            "a": "بارد",
+            "b": "ساخن",
+            "c": "حار",
+            "d": "دافئ"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Warm'؟",
+          "options": {
+            "a": "دافئ",
+            "b": "بارد",
+            "c": "ساخن",
+            "d": "حار"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Cool'؟",
+          "options": {
+            "a": "بارد",
+            "b": "ساخن",
+            "c": "حار",
+            "d": "مائل"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Heavy'؟",
+          "options": {
+            "a": "خفيف",
+            "b": "ثقيل",
+            "c": "رقيق",
+            "d": "مالح"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Light'؟",
+          "options": {
+            "a": "ثقيل",
+            "b": "خفيف",
+            "c": "مالح",
+            "d": "رقيق"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Fast'؟",
+          "options": {
+            "a": "بطيء",
+            "b": "سريع",
+            "c": "سهل",
+            "d": "صعب"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Slow'؟",
+          "options": {
+            "a": "سريع",
+            "b": "بطيء",
+            "c": "سهل",
+            "d": "صعب"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Cheap'؟",
+          "options": {
+            "a": "غالي",
+            "b": "رخيص",
+            "c": "صعب",
+            "d": "سهل"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Expensive'؟",
+          "options": {
+            "a": "غالي",
+            "b": "رخيص",
+            "c": "صعب",
+            "d": "سهل"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Old'؟",
+          "options": {
+            "a": "صغير",
+            "b": "كبير",
+            "c": "شاب",
+            "d": "كبير"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Young'؟",
+          "options": {
+            "a": "كبير",
+            "b": "شاب",
+            "c": "صغير",
+            "d": "طفل"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Short'؟",
+          "options": {
+            "a": "طويل",
+            "b": "قصير",
+            "c": "ضخم",
+            "d": "صغير"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "ما هو معنى الكلمة 'Tall'؟",
+          "options": {
+            "a": "صغير",
+            "b": "طويل",
+            "c": "رفيع",
+            "d": "عريض"
+          },
+          "correct_answer": "b"
+        }
+      ]
+    }
+}
+  
+  
+  
